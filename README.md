@@ -1,7 +1,5 @@
 Bem vindo ao meu perfil 🖤
 
--Me chamo Michelly 
-
 -Sou estudante da [Alura](https://www.alura.com.br);
 
 -Utilizo esse espaço para me organizar e compartilhar meus projetos;
